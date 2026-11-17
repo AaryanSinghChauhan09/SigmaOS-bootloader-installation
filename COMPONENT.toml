@@ -3,7 +3,7 @@ name = "SigmaOS-bootloader-installation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "bootloader-installation component"
+description = "Bootloader Installation"
 upstream = []
 
 [contract]
